@@ -1,6 +1,12 @@
 Labs
 ====
 
+Requirement
+-----------
+bower & grunt-cli have to be globally installed
+
+    sudo npm install -g grunt-cli bower
+
 Installation
 ------------
 
