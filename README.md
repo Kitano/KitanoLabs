@@ -4,19 +4,19 @@ Labs
 Installation
 ------------
 
-  bower install
-  sudo npm install
+    bower install
+    sudo npm install
 
 
 Deployment
 ----------
 
-  grunt
+    grunt
 
 Development
 -----------
 
-  grunt && grunt watch
+    grunt && grunt watch
 
 Tips
 ----
