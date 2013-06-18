@@ -1,0 +1,14 @@
+{
+  "name": "KitanoLabs",
+  "version": "0.0.0",
+  "main": "bower.json",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "jquery": "1.8.0",
+    "bootstrap": "2.3.2"
+  }
+}
